@@ -13,7 +13,7 @@
         your browser does not support the audio element.
     </audio>
     <h2>Shubhash Chandra Bose</h2>
-    <video width="400" height="300" controls autoplay loop  >//auto playloop is used for auto play
+    <video width="400" height="300" controls   >//auto playloop is used for auto play
         <source src="https://github.com/sm4561/smweb/raw/refs/heads/main/SubhashChandra%20Bose.mp4    " type="video/mp4">
         your browser does not support the video tag.
     </video>
