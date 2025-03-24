@@ -18,13 +18,12 @@ Hello!
         <source src="video/osho.mp4" type="video/mp4">
         your browser does not support the video tag.
     </video>
-
-    <h2>Krishnamurti and osho</h2>
+<h2>Krishnamurti and osho</h2>
     <video width="400" height="300" controls >
         <source src="video/SubhashChandra Bose.mp4" type="video/mp4">
         your browser does not support the video tag.
 
 
-    </video>
+</video>
 </body>
 </html>
